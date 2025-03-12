@@ -78,7 +78,7 @@
 ### April 6 (Sun) – Shirakawa-go & Takayama
     🏡 Visit Shirakawa-go (thatched-roof houses).
     🍶 Afternoon: Takayama Old Town & sake breweries.
-    🏨 Stay overnight in Takayama or return to Kanazawa.
+    🏨 Return to Kanazawa.
 
 ### April 7 (Mon) – Travel to Nagano & Matsumoto
     🚆 Train to Nagano (~2.5h).
