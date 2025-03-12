@@ -30,7 +30,7 @@
     🏯 Midday: Himeji Castle & Koko-en Garden.
     🚆 Afternoon: Train to Kobe (~40 min). Visit Ikuta Shrine, Kobe Harborland, or Nunobiki Herb Garden.
     🥩 Evening: Kobe beef dinner, Mt. Rokko night view.
-    🏨 Overnight in Kobe.
+    🏨 Overnight back in Osaka.
 
 ## Part 2: Western Japan (Hiroshima, Shimonoseki, Kagoshima, Yakushima)
 
@@ -66,7 +66,7 @@
     🌊 Alternative: Beaches, waterfalls, coastal driving tour.
 
 ### April 4 (Fri) – Yakushima to Osaka/Tokyo & Kanazawa
-    ✈️ Morning: Flight to Osaka or Tokyo.
+    ✈️ Morning: Flight to Osaka.
     🚅 Afternoon: Shinkansen to Kanazawa (~2.5h).
 
 ## Part 3: Alps & Tokyo
