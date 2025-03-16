@@ -3,60 +3,57 @@
 ## Part 1: Kansai Region (Osaka, Kyoto, Nara, Himeji, Kobe)
 
 ### March 23 (Sun) – Arrival in Osaka
-    ✈️ Evening arrival, check into Namba/Umeda area.
-    🍢 Try okonomiyaki or kushikatsu for dinner.
+    KIX airport - Namba: Nankai-Kuko line 970 JPY
 
 ### March 24 (Mon) – Osaka
+    Moving around?
     🏯 Morning: Osaka Castle & park (sakura season!).
     🎡 Afternoon: Shinsekai, Tsutenkaku Tower.
     🌃 Evening: Dotonbori for neon lights and street food (takoyaki, ramen, sushi).
 
 ### March 25 (Tue) – Day trip to Nara
-    * West JR: Yamatoji line: 580 JP one way
-    * Kintetsu: 680 JPY one way
+    * West JR: Yamatoji line: 580 JP one way, 43 min to 20 min walk to park
+    * Kintetsu: 680 JPY one way, 39 min
     * Kintetsu to Sakurai: Limited Express "HINOTORI No.9"  To:Kintetsu-Nagoya [E01] 
     & Rapid Express  To:Matsusaka [M64]  830 JPY
 
-
 ### March 26 (Wed) – Kyoto (Day 1: Eastern Kyoto)
     To Fushimi Inari Shrine: JR West 860 JPY + Osaka metro (820 to Kyoto only)
-
+    57 min. + 15 min walk to Namba
 
 ### March 27 (Thu) – Kyoto (Day 2: Arashiyama & Central Kyoto)
-    🎋 Morning: Bamboo Forest, Tenryu-ji, Iwatayama Monkey Park.
-    ✨ Afternoon: Kinkaku-ji (Golden Pavilion), Ryoan-ji (Zen garden).
-    🍣 Evening: Nishiki Market or Kyoto Station food floor.
+    ? 800-1000 JPY ? ~90 min
+    Sakaisuji line to Awaji
+    Hankyo Kyoto line to Katsura
+    Kyoto Arashiyama to Arashiyama
 
 ###  March 28 (Fri) – Himeji & Kobe
-    🚅 Morning: Shinkansen to Himeji (~50 min).
-    🏯 Midday: Himeji Castle & Koko-en Garden.
-    🚆 Afternoon: Train to Kobe (~40 min). Visit Ikuta Shrine, Kobe Harborland, or Nunobiki Herb Garden.
-    🥩 Evening: Kobe beef dinner, Mt. Rokko night view.
-    🏨 Overnight back in Osaka.
+    Tanimachi line to Osaka Station, Shinkansen to Himeji station
+    3690 JPY, 90 min
+
+    Tokaido-Sanyo line to Kobe, 990 JPY, 40 min
+
+    Tokaido-Sanyo line to Umeda,
+    Tanimachi line, 660 JPY, 60 min
 
 ## Part 2: Western Japan (Hiroshima, Shimonoseki, Kagoshima, Yakushima)
 
 ### March 29 (Sat) – Travel to Hiroshima
-    🚅 Morning: Shinkansen to Hiroshima (~1.5h).
-    ☮️ Afternoon: Peace Memorial Park, Museum, Atomic Bomb Dome.
-    🍁 Evening: Explore Hondori Street, try Hiroshima-style okonomiyaki. Overnight in Hiroshima.
+    Namba sation - Shin Osaka and then Sanyo Shinkansen
+    11440 JPY 
 
 ### March 30 (Sun) – Day Trip to Miyajima (Itsukushima)
-    🚢 Ferry to Miyajima.
-    ⛩️ Floating torii gate, Itsukushima Shrine.
-    🌄 Afternoon: Mt. Misen hike or cable car.
-    🏨 Return to Hiroshima for overnight.
+    200 JPY one way
 
 ### March 31 (Mon) – Travel to Shimonoseki
-    🚆 Morning: Train to Shimonoseki (~1h40min).
-    🐡 Midday: Karato Market – try fresh fugu (pufferfish)!
-    🌊 Afternoon: Kanmon Straits, Akama Shrine.
-    🚄 Evening: Train to Kagoshima (~4h), overnight in Kagoshima.
+    Hiroshima - Kagoshima: 18000 JPY, 3 h
+
+    Hiroshima - Shimonoseki: 5940 JPY, 1 h
+    Shimonoseki - Kagoshima: 13800 JPY, 2 h
+
 
 ### April 1 (Tue) – Kagoshima & Sakurajima
-    🌋 Ferry to Sakurajima Volcano (viewpoints, hot spring footbaths).
-    🏯 Afternoon: Sengan-en Garden, Shiroyama Park.
-    ♨️ Evening: Ibusuki Sand Baths (if time allows).
+    Ferry to Sakurajima: 250 JPY
 
 ### April 2 (Wed) – Ferry/Flight to Yakushima
     🛳️ Take ferry or fly (~40 min) to Yakushima.
