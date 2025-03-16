@@ -11,12 +11,12 @@
 
 | Date  | City               | Place | Trips     |
 | ----- | ------------------ | ----- | --------- |
-| 23/03 | Osaka              |       |           |
-| 24/03 | Osaka              |       |           |
-| 25/03 | Osaka              |       |           |
-| 26/03 | Osaka              |       |           |
-| 27/03 | Osaka              |       |           |
-| 28/03 | Osaka              |       |           |
+| 23/03 | Osaka              |       | Arrival   |
+| 24/03 | Osaka              |       | Osaka     |
+| 25/03 | Osaka              |       | Nara      |
+| 26/03 | Osaka              |       | Kyoto 1   |
+| 27/03 | Osaka              |       | Kyoto 2   |
+| 28/03 | Osaka              |       |Himeji & Kobe |
 | 29/03 | Hiroshima          |       | Hiroshima |
 | 30/03 | Hiroshima          |       | Miyajima  |
 | 31/03 | Kagoshima          |       |           |
