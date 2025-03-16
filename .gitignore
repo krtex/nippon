@@ -1,0 +1,6 @@
+# ignore obsidian's settings
+.obsidian/
+
+# apple rubbish
+.DS_Store
+.trash/
