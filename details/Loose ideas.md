@@ -1,0 +1,24 @@
+# Loose ideas
+
+- muzeum zupek ~~chińskich~~ **japońskich**
+    - ℹ Momofuku Ando founded a company *Nissin* in Ikeda, Osaka. He invented instant noodles in 1958 under brand name *Chikin Ramen*. In 1971, inspired by Americans breaking noodles in half and eating them from a paper cup after pouring hot water in, he invented *Cup Noodles* (カップヌードル, *Kappu Nūdoru*) — instant noodles sold in a foam cup.
+    - Osaka
+        - 📌 [8-25 Masumicho, Ikeda, Osaka 563-0041](https://maps.app.goo.gl/NZ1odFqa96P5R9E2A)
+        - open:
+            - 9:30–16:30 (last admission at 15:30)
+            - closed on Tuesdays
+        - entry: free
+        - activities:
+            - [Chicken Ramen Factory](https://www.cupnoodles-museum.jp/en/osaka_ikeda/attractions/cr-factory/) for 1000 ¥ (by reservation)
+            - [My CupNoodles Factory](https://www.cupnoodles-museum.jp/en/osaka_ikeda/attractions/mc-factory/) for 500 ¥ per cup
+    - Tokyo/Yokohama: 
+        - 📌 [2 Chome-3-4 Shinko, Naka Ward, Yokohama, Kanagawa 231-0001](https://maps.app.goo.gl/hCckwbD5YbH222tX7)
+        - open:
+            - 10:00–18:00 (last admission at 17:00)
+            - closed on Tuesdays
+        - entry: 500 ¥
+        - other than Osaka:
+            - Noodles Bazaar
+                - bar serving original Chikin Ramen 🇯🇵 and 8 other noodle dishes from around the world 🌏: 🇮🇹, 🇰🇿, 🇨🇳, 🇰🇷, 🇻🇳, 🇹🇭, 🇲🇾, 🇮🇩
+            - marble coaster (visible from the street)
+            - playground :P
