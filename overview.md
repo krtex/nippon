@@ -72,7 +72,7 @@
 - 🌳 Afternoon: Explore Shiratani Unsuikyo Forest (Princess Mononoke vibes)
 - 🏨 Stay in onsen ryokan
 
-### April 3 (Thu) – [Yakushima](details/02-05-yakushima.md)
+### April 3 (Thu) – [Yakushima](Yakushima.md)
 
 - 🌲 Hiking option: Jomon Sugi trek (full-day hike, 7,000-year-old tree)
 - 🌊 Alternative: Beaches, waterfalls, coastal driving tour
