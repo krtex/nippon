@@ -8,11 +8,11 @@
 
 ## Asakusa & Ueno
 
-The Asakusa district has retained the feel of old Tokyo, with craft shops and food stalls lining Nakamise Street near the ancient Sensō-ji temple. The mid-19th-century Hanayashiki amusement park has rides and cafés, and Kuritsu Sumida Park, by the river, regularly hosts festivals and fireworks. The waterfront is home to elegant restaurants, while the side streets are lined with typical izakaya bars
+The Asakusa district has retained the feel of old Tokyo, with craft shops and food stalls lining Nakamise Street near the ancient Sensō-ji temple. The mid-19th-century Hanayashiki amusement park has rides and cafés, and Kuritsu Sumida Park, by the river, regularly hosts festivals and fireworks. The waterfront is home to elegant restaurants, while the side streets are lined with typical izakaya bars.
 
 - [Travel wiki](https://wikitravel.org/en/Tokyo/Asakusa)
 - [Wikipedia](https://pl.wikipedia.org/wiki/Asakusa)
-- ⛩️ Senso-ji Temple, Nakamise Street
+- ⛩️ Sensō-ji Temple, Nakamise Street
 - 🎨 Ueno Park (museums, cherry blossoms)
 
 ## Akihabara & Ikebukuro
