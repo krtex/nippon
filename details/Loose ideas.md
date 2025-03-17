@@ -11,7 +11,7 @@
         - activities:
             - [Chicken Ramen Factory](https://www.cupnoodles-museum.jp/en/osaka_ikeda/attractions/cr-factory/) for 1000 ¥ (by reservation)
             - [My CupNoodles Factory](https://www.cupnoodles-museum.jp/en/osaka_ikeda/attractions/mc-factory/) for 500 ¥ per cup
-    - Tokyo/Yokohama: 
+    - Tokyo/Yokohama:
         - 📌 [2 Chome-3-4 Shinko, Naka Ward, Yokohama, Kanagawa 231-0001](https://maps.app.goo.gl/hCckwbD5YbH222tX7)
         - open:
             - 10:00–18:00 (last admission at 17:00)
